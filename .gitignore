@@ -1,0 +1,24 @@
+
+.idea/compiler.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+*.class
+*.kotlin_module
+*.lst
+/*.iml
+/*.ipr
+/*.iws
+/.classpath
+/.factorypath
+/.idea
+/.project
+/.settings
+/nb*
+/release.properties
+/target
+
+# These are needed if running in IDE without properties set
+/ibderby
+derby.log
+/bin/
+.mvn/wrapper/maven-wrapper.jar
